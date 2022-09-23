@@ -99,7 +99,7 @@ int main()
 	}
 	printf("==================스택 출력끝===============\n");
 	printf("%d\n", top(_stack));
-	printf("%d\n", isEmpty(_stack));
+	printf("%d\n", isEmpty(_stack)); vc         
 	
 
 
