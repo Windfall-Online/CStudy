@@ -21,5 +21,8 @@
     <ClCompile Include="TextGame.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="궁금증해결.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
