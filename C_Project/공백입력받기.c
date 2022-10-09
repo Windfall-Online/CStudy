@@ -4,7 +4,7 @@
 
 int main()
 {
-	//char _name[20];
+	//char _name[20]
 	//scanf("%[^1]s", _name);
 	//printf("%s", _name);
 
