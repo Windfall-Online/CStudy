@@ -1,5 +1,5 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include <iostream>
 #include <algorithm>
 // 스택은 높은 곳->낮은 곳
 // 빅 엔디안, 리틀 엔디안
@@ -49,5 +49,12 @@ int main()
 	//printf("%d\n", *++p);
 
 	//return 0;
+
+	// 공백 입력받기
+	{
+		char _array[30];
+		scanf("%s", _array);
+		printf("%s", _array);
+	}
 
 }

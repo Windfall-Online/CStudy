@@ -13,7 +13,10 @@
     <ClCompile Include="sample.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="잡지식.cpp">
+    <ClCompile Include="잡지식.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="공백입력받기.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
