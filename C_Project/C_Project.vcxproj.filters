@@ -19,5 +19,11 @@
     <ClCompile Include="공백입력받기.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2750.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="파일입출력.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
